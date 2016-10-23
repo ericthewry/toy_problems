@@ -21,5 +21,7 @@ $(which python) <filename> <inputfile> <outputfile>
 ### Contents
 
 `block_stacking.py` a solution to the block-stacking problem
+
 `block_stacking.pdf` a  writeup for the block-stacking problem
+
 `stock.py` a solution to the longest nondecreasing sublist problem
